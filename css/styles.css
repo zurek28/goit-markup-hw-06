@@ -397,7 +397,7 @@ figure {
   border-radius: 2px;
 }
 
-#rules-accept:checked + label::before {
+#rules-accept:checked + .rules-acceptance::before {
   border: none;
   background-image: url('./images/icon-check.svg');
 }
