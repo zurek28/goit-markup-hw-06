@@ -399,7 +399,7 @@ figure {
 
 #rules-accept:checked + .rules-acceptance::before {
   border: none;
-  background-image: url('/images/icon-check.svg');
+  background-image: url('../images/icon-check.svg');
 }
 
 .contact-send {
